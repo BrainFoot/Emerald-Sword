@@ -1,0 +1,7 @@
+name: EmeraldSword
+version: 1.0
+main: emeraldsword.emeraldsword.EmeraldSword
+api-version: 1.14
+author: BrainFoot
+website: codingcafe.tk/
+description: Plugin inspiriert von Logo!
