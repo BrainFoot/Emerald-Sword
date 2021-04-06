@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Emeral Sword 👋</h1>
+<h1 align="center">Welcome to Emerald Sword 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000" />
   <a href="https://github.com/kefranabg/readme-md-generator/graphs/commit-activity" target="_blank">
@@ -21,8 +21,8 @@
 
 👤 **BrainFoot**
 
-* Website: http://codingcafe.eu/
-* Github: [@BrainFoot](https://github.com/BrainFoot)
+* Website: http://psyro.de/
+* Github: [@Psyro](https://github.com/Psyro770)
 
 ## Show your support
 
